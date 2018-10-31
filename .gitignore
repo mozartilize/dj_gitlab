@@ -20,3 +20,4 @@ htmlcov
 *,cover
 
 .vscode/
+db.sqlite3
